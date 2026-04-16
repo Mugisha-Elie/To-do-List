@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+@theme{
+    --shadow-rl: 0px 1.5px 3px 3px rgba(0, 0, 0, 0.1);
+}
